@@ -1,7 +1,10 @@
 {
   "dependencies": {
+    "@andyet/simplewebrtc": "^1.22.1",
     "@okta/okta-signin-widget": "^4.1.3",
-    "core-js": "^3.6.5"
+    "bufferutil": "^4.0.1",
+    "core-js": "^3.6.5",
+    "utf-8-validate": "^5.0.2"
   },
   "name": "social_good",
   "version": "1.0.0",
